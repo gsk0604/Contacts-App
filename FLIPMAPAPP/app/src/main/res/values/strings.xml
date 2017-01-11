@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FLIP MAP APP</string>
+    <string name="action_choose">Choose File from phone</string>
+    <string name="refresh">Refresh list</string>
+    <string name="hnt_et_name">Name</string>
+    <string name="hnt_et_mobile_phone">Mobile Phone</string>
+    <string name="hnt_et_home_phone">Home Phone</string>
+    <string name="hnt_et_work_email">Work Email</string>
+    <string name="str_btn_add">Add Contact</string>
+    <string name="chooser_title">Chooser</string>
+    <string name="str_btn_contacts">Contacts List</string>
+    <string name="choose_file">Select a file</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="empty_directory">Empty Directory</string>
+    <string name="storage_removed">Storage was removed or unmounted.</string>
+    <string name="error_selecting_file">Error selecting File</string>
+    <string name="title_activity_maps">FLIP Map</string>
+    <string name="add_name">Name</string>
+    <string name="add_mobnum">Mobile Number</string>
+    <string name="add_fixnum">Fixed Landline</string>
+    <string name="add_email">Email</string>
+</resources>
